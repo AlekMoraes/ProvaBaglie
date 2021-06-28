@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P2Activity</string>
+    <string name="text_number_of_likes">Te curtiram</string>
+    <string name="text_list_of_talks">Conversas</string>
+</resources>
